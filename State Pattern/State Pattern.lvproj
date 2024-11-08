@@ -13,6 +13,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="State Pattern.lvclass" Type="LVClass" URL="../State Pattern/State Pattern.lvclass"/>
+		<Item Name="Context State.lvclass" Type="LVClass" URL="../Context State/Context State.lvclass"/>
 		<Item Name="A Context State.lvclass" Type="LVClass" URL="../A Context State/A Context State.lvclass"/>
 		<Item Name="B Context State.lvclass" Type="LVClass" URL="../B Context State/B Context State.lvclass"/>
 		<Item Name="Context.lvclass" Type="LVClass" URL="../Context/Context.lvclass"/>
