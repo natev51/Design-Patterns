@@ -17,17 +17,18 @@
 	<Item Name="Parent Libraries" Type="Parent Libraries">
 		<Item Name="State Pattern.lvclass" Type="Parent" URL="../../../State Pattern/State Pattern.lvclass"/>
 	</Item>
-	<Item Name="DD (Descendants must override)" Type="Folder">
-		<Item Name="Unchecked" Type="Folder">
+	<Item Name="DD" Type="Folder">
+		<Item Name="Unchecked Descendants must override" Type="Folder">
 			<Item Name="xxxx Core.vi" Type="VI" URL="../xxxx Core.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%^!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%"!=!!?!!!F$5.P&lt;H2F?(1O&lt;(:M;7)61W^O&gt;'6Y&gt;#"4&gt;'&amp;U:3ZM&gt;G.M98.T!"&amp;$&lt;WZU:8BU)&amp;.U982F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%"!=!!?!!!F$5.P&lt;H2F?(1O&lt;(:M;7)61W^O&gt;'6Y&gt;#"4&gt;'&amp;U:3ZM&gt;G.M98.T!""$&lt;WZU:8BU)&amp;.U982F)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q)!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!A!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 				<Property Name="NI.ClassItem.MustOverride" Type="Bool">false</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1082139136</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 			</Item>
 		</Item>
 	</Item>
