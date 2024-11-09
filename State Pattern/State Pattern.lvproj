@@ -16,6 +16,7 @@
 		<Item Name="xxxx.lvlib" Type="Library" URL="../xxxx/xxxx.lvlib"/>
 		<Item Name="Context.lvlib" Type="Library" URL="../Context/Context.lvlib"/>
 		<Item Name="Load App" Type="VI" URL="../Load App"/>
+		<Item Name="Context Actor.lvlib" Type="Library" URL="../Context Actor/Context Actor.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
