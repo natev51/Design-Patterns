@@ -5,9 +5,11 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Context State" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Property Name="NI.SortType" Type="Int">3</Property>
+		<Item Name="Context State.lvclass" Type="LVClass" URL="../Context State/Context State.lvclass"/>
 		<Item Name="A Context State.lvclass" Type="LVClass" URL="../A Context State/A Context State.lvclass"/>
 		<Item Name="B Context State.lvclass" Type="LVClass" URL="../B Context State/B Context State.lvclass"/>
-		<Item Name="Context State.lvclass" Type="LVClass" URL="../Context State/Context State.lvclass"/>
 	</Item>
-	<Item Name="Context Actor.lvclass" Type="LVClass" URL="../Context Actor.lvclass"/>
+	<Item Name="Context.lvclass" Type="LVClass" URL="../Context/Context.lvclass"/>
 </Library>
