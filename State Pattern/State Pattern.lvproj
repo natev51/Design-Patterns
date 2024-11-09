@@ -12,6 +12,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="State Change Core.lvlib" Type="Library" URL="../State Change Core/State Change Core.lvlib"/>
 		<Item Name="State Pattern.lvclass" Type="LVClass" URL="../State Pattern/State Pattern.lvclass"/>
 		<Item Name="xxxx.lvlib" Type="Library" URL="../xxxx/xxxx.lvlib"/>
 		<Item Name="Context.lvlib" Type="Library" URL="../Context/Context.lvlib"/>

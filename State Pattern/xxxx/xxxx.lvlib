@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="xxxx Msg.lvclass" Type="LVClass" URL="../xxxx Messages/xxxx Msg/xxxx Msg.lvclass"/>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="xxxx.lvclass" Type="LVClass" URL="../xxxx/xxxx.lvclass"/>
+	<Item Name="xxxx Msg.lvclass" Type="LVClass" URL="../xxxx Messages/xxxx Msg/xxxx Msg.lvclass"/>
 </Library>
