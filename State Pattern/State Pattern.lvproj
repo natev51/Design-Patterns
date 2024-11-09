@@ -15,6 +15,7 @@
 		<Item Name="State Pattern.lvclass" Type="LVClass" URL="../State Pattern/State Pattern.lvclass"/>
 		<Item Name="xxxx.lvlib" Type="Library" URL="../xxxx/xxxx.lvlib"/>
 		<Item Name="Context.lvlib" Type="Library" URL="../Context/Context.lvlib"/>
+		<Item Name="Load App" Type="VI" URL="../Load App"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
