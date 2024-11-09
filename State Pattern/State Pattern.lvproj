@@ -12,8 +12,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="State Change Core.lvlib" Type="Library" URL="../State Change Core/State Change Core.lvlib"/>
 		<Item Name="State Pattern.lvclass" Type="LVClass" URL="../State Pattern/State Pattern.lvclass"/>
+		<Item Name="State Change Core.lvlib" Type="Library" URL="../State Change Core/State Change Core.lvlib"/>
+		<Item Name="Flip States.lvlib" Type="Library" URL="../Flip States/Flip States.lvlib"/>
 		<Item Name="xxxx.lvlib" Type="Library" URL="../xxxx/xxxx.lvlib"/>
 		<Item Name="Context.lvlib" Type="Library" URL="../Context/Context.lvlib"/>
 		<Item Name="Load App.vi" Type="VI" URL="../Load App.vi"/>

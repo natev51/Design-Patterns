@@ -15,7 +15,7 @@
 
 </Property>
 	<Item Name="Parent Libraries" Type="Parent Libraries">
-		<Item Name="State Pattern.lvclass" Type="Parent" URL="../../../State Pattern/State Pattern.lvclass"/>
+		<Item Name="State Change Core.lvlib:State Change Core.lvclass" Type="Parent" URL="../../../State Change Core/State Change Core/State Change Core.lvclass"/>
 	</Item>
 	<Item Name="DD" Type="Folder">
 		<Item Name="Unchecked Descendants must override" Type="Folder">
