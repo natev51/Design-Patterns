@@ -12,12 +12,18 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="State Pattern.lvclass" Type="LVClass" URL="../State Pattern/State Pattern.lvclass"/>
-		<Item Name="State Change Core.lvlib" Type="Library" URL="../State Change Core/State Change Core.lvlib"/>
-		<Item Name="Flip States.lvlib" Type="Library" URL="../Flip States/Flip States.lvlib"/>
-		<Item Name="xxxx.lvlib" Type="Library" URL="../xxxx/xxxx.lvlib"/>
-		<Item Name="Context.lvlib" Type="Library" URL="../Context/Context.lvlib"/>
-		<Item Name="Load App.vi" Type="VI" URL="../Load App.vi"/>
+		<Item Name="State Pattern" Type="Folder">
+			<Item Name="State Pattern.lvclass" Type="LVClass" URL="../State Pattern/State Pattern/State Pattern.lvclass"/>
+			<Item Name="State Change Core.lvlib" Type="Library" URL="../State Pattern/State Change Core/State Change Core.lvlib"/>
+		</Item>
+		<Item Name="Example" Type="Folder">
+			<Item Name="Messages" Type="Folder">
+				<Item Name="Flip States.lvlib" Type="Library" URL="../Example/Messages/Flip States/Flip States.lvlib"/>
+				<Item Name="xxxx.lvlib" Type="Library" URL="../Example/Messages/xxxx/xxxx.lvlib"/>
+			</Item>
+			<Item Name="Context.lvlib" Type="Library" URL="../Example/Context/Context.lvlib"/>
+			<Item Name="Load App.vi" Type="VI" URL="../Example/Load App.vi"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
