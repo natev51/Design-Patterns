@@ -14,8 +14,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="State Pattern.lvclass" Type="LVClass" URL="../State Pattern/State Pattern.lvclass"/>
 		<Item Name="xxxx.lvlib" Type="Library" URL="../xxxx/xxxx.lvlib"/>
-		<Item Name="Context.lvlib" Type="Library" URL="../Context/Context.lvlib"/>
-		<Item Name="Load App" Type="VI" URL="../Load App"/>
+		<Item Name="Load App.vi" Type="VI" URL="../Load App.vi"/>
 		<Item Name="Context Actor.lvlib" Type="Library" URL="../Context Actor/Context Actor.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
