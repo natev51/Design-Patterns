@@ -7,9 +7,9 @@
 	<Item Name="State" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Item Name="Context State.lvclass" Type="LVClass" URL="../Context State/Context State.lvclass"/>
-		<Item Name="A Context State.lvclass" Type="LVClass" URL="../A Context State/A Context State.lvclass"/>
-		<Item Name="B Context State.lvclass" Type="LVClass" URL="../B Context State/B Context State.lvclass"/>
+		<Item Name="State.lvclass" Type="LVClass" URL="../State/State.lvclass"/>
+		<Item Name="A State.lvclass" Type="LVClass" URL="../A State/A State.lvclass"/>
+		<Item Name="B State.lvclass" Type="LVClass" URL="../B State/B State.lvclass"/>
 	</Item>
 	<Item Name="Context.lvclass" Type="LVClass" URL="../Context/Context.lvclass"/>
 </Library>
