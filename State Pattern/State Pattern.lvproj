@@ -1,6 +1,8 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="21008000">
+	<Property Name="CCSymbols" Type="Str">Debug_Pop_Up,TRUE;</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -13,7 +15,6 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="State Pattern" Type="Folder">
-			<Item Name="Return Default Object.vi" Type="VI" URL="../State Pattern/Return Default Object.vi"/>
 			<Item Name="State Pattern.lvclass" Type="LVClass" URL="../State Pattern/State Pattern/State Pattern.lvclass"/>
 			<Item Name="Msg State Change.lvlib" Type="Library" URL="../State Pattern/Msg State Change/Msg State Change.lvlib"/>
 		</Item>
