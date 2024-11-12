@@ -13,6 +13,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="State Pattern" Type="Folder">
+			<Item Name="Return Default Object.vi" Type="VI" URL="../State Pattern/Return Default Object.vi"/>
 			<Item Name="State Pattern.lvclass" Type="LVClass" URL="../State Pattern/State Pattern/State Pattern.lvclass"/>
 			<Item Name="Msg State Change.lvlib" Type="Library" URL="../State Pattern/Msg State Change/Msg State Change.lvlib"/>
 		</Item>
