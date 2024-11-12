@@ -5,6 +5,6 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="State Change Core.lvclass" Type="LVClass" URL="../State Change Core/State Change Core.lvclass"/>
-	<Item Name="State Change Core Msg.lvclass" Type="LVClass" URL="../State Change Core Messages/State Change Core Msg/State Change Core Msg.lvclass"/>
+	<Item Name="Msg State Change.lvclass" Type="LVClass" URL="../Msg State Change/Msg State Change.lvclass"/>
+	<Item Name="Msg State Change Msg.lvclass" Type="LVClass" URL="../Msg State Change Messages/Msg State Change Msg/Msg State Change Msg.lvclass"/>
 </Library>

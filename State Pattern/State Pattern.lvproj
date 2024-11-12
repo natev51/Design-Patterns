@@ -14,7 +14,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="State Pattern" Type="Folder">
 			<Item Name="State Pattern.lvclass" Type="LVClass" URL="../State Pattern/State Pattern/State Pattern.lvclass"/>
-			<Item Name="State Change Core.lvlib" Type="Library" URL="../State Pattern/State Change Core/State Change Core.lvlib"/>
+			<Item Name="Msg State Change.lvlib" Type="Library" URL="../State Pattern/Msg State Change/Msg State Change.lvlib"/>
 		</Item>
 		<Item Name="Example" Type="Folder">
 			<Item Name="Messages" Type="Folder">

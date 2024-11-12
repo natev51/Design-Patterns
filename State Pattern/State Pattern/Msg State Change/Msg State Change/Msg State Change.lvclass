@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="21008000">
-	<Property Name="NI.Lib.ContainingLib" Type="Str">State Change Core.lvlib</Property>
-	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../State Change Core.lvlib</Property>
+	<Property Name="NI.Lib.ContainingLib" Type="Str">Msg State Change.lvlib</Property>
+	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Msg State Change.lvlib</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*J!!!*Q(C=\&gt;5RDN.!&amp;-&lt;RTSO%I-Q.6CFJXR83U%15O+&gt;[.U"O;:"S"*[AW7+&lt;H'#F^)DC83&amp;8S"8-X_.(%AAI$3MIVG;=Z*O:.\_V2U:KRQPJG=:LRXL&gt;,H]Y['K&gt;.?*CY$T`W.L(L`V4.-[8_PCZ@BPTI]:[P*B`5@2MT0C&lt;GOOT]5&gt;`V4E6'_?FTWDDC8D[&gt;8*6X\()/0&gt;@/@2U0"X`^PBQ&gt;:-__J\N.,W);%E,GN.-UV*DEC&gt;ZEC&gt;ZEC&gt;ZE!&gt;ZE!&gt;ZE!?ZETOZETOZETOZE2OZE2OZE2NZ/]F&amp;,H+21UI74R:+CC9&amp;EM&amp;1F&amp;Q34_**0)G(HUI]C3@R**\%QR!FHM34?"*0YG';%E`C34S**`&amp;1KEGSH?2Y%A`F&amp;8A#4_!*0)'(*26Y!E#Q7&amp;!Y+!*$17@Q*@!%HM$$6Q7?Q".Y!E`AI6O"*`!%HM!4?*D3\EIUT833Y['-()`D=4S/R`&amp;17I\(]4A?R_.Y7%[/R`%Y#'&gt;"JTA%/:/=!=Y0R_.Y_*$D=4S/R`%Y(LL;%`*W:S&lt;.&gt;*,D-4S'R`!9(M.$#2E?QW.Y$)`BI;Q-D_%R0)&lt;(],#5$)`B-4Q'R&amp;C5Z755-S9;AYT!]0#P\2:L4SG;R.IJV?:6&lt;5L6:F.N)N8G5$VUV=.50346T6@&gt;6.8.5NU%V2_H1KMQKE65E[?"/H$&gt;UX;U,7V$'WA^&lt;56&lt;UB&lt;4V,]]](!Y;,`@;\@&lt;;&lt;P&gt;;L0:;"A'^8WPV7KFZ8+JR7*R@!X==BZ@#0.\[1P@\W\5R?@&lt;\O/L.^V$P/N#T\N\P?TO0HU&lt;\PP8@&lt;T^_P[2`C`^$^[.ON&amp;Z8?\2&gt;S:,Q59!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
@@ -17,14 +17,14 @@
 	<Item Name="Parent Libraries" Type="Parent Libraries">
 		<Item Name="State Pattern.lvclass" Type="Parent" URL="../../../State Pattern/State Pattern.lvclass"/>
 	</Item>
-	<Item Name="State Change Core.vi" Type="VI" URL="../State Change Core.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'P!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;*!=!!?!!!T&amp;V.U982F)%.I97ZH:3"$&lt;X*F,GRW&lt;'FC'6.U982F)%.I97ZH:3"$&lt;X*F,GRW9WRB=X-!&amp;6.U982F)%.I97ZH:3"$&lt;X*F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%Z!=!!?!!!T&amp;V.U982F)%.I97ZH:3"$&lt;X*F,GRW&lt;'FC'6.U982F)%.I97ZH:3"$&lt;X*F,GRW9WRB=X-!%&amp;2S97ZT;82J&lt;WYA5X2B&gt;'5!!&amp;*!=!!?!!!T&amp;V.U982F)%.I97ZH:3"$&lt;X*F,GRW&lt;'FC'6.U982F)%.I97ZH:3"$&lt;X*F,GRW9WRB=X-!&amp;&amp;.U982F)%.I97ZH:3"$&lt;X*F)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!!!!!!)E!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!1!!!!EA!!!!!"!!E!!!!!</Property>
+	<Item Name="Msg State Change.vi" Type="VI" URL="../Msg State Change.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'@!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;"!=!!?!!!R&amp;EVT:S"4&gt;'&amp;U:3"$;'&amp;O:W5O&lt;(:M;7)948.H)&amp;.U982F)%.I97ZH:3ZM&gt;G.M98.T!"64&gt;'&amp;U:3"$;'&amp;O:W5A1W^S:3"P&gt;81!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!%R!=!!?!!!R&amp;EVT:S"4&gt;'&amp;U:3"$;'&amp;O:W5O&lt;(:M;7)948.H)&amp;.U982F)%.I97ZH:3ZM&gt;G.M98.T!""5=G&amp;O=WFU;7^O)&amp;.U982F!!"11(!!(A!!-2:.=W=A5X2B&gt;'5A1WBB&lt;G&gt;F,GRW&lt;'FC'%VT:S"4&gt;'&amp;U:3"$;'&amp;O:W5O&lt;(:D&lt;'&amp;T=Q!55X2B&gt;'5A1WBB&lt;G&gt;F)%.P=G5A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!)!Q!!?!!!$1A!!!!!!!!!!!!!C1!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!"!!!!#1!!!!!!%!#1!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.MustOverride" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
 	</Item>
 </LVClass>
